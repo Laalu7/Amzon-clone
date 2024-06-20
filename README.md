@@ -1,2 +1,5 @@
-# Amzon-clone
-Amzon-Clone using React.js
+<center>
+
+<img src="./amazon.png" alt="amazon Poster"/>
+
+</center>
